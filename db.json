@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "55e14ef0-5aa9-4692-ae93-335ae1d0099f",
+      "name": "Admin",
+      "lastName": "Sample User",
+      "username": "admin@nextdigital.es",
+      "phone": "666777999",
+      "isActive": true,
+      "role": "ADMIN"
+    },
+    {
+      "id": "b07b7544-04c0-4ab1-9c35-b859feecbcad",
+      "name": "Jefe de obra",
+      "lastName": "Sample User",
+      "username": "jefedeobra@nextdigital.es",
+      "phone": "666777999",
+      "isActive": true,
+      "role": "CONSTRUCTION_MANAGER"
+    },
+    {
+      "id": "b35654e9-9cc5-4d40-b653-bd1193722399",
+      "name": "Central",
+      "lastName": "Sample User",
+      "username": "central@nextdigital.es",
+      "phone": "666777999",
+      "isActive": true,
+      "role": "CENTRAL"
+    },
+    {
+      "id": "990e0f77-ddf0-4ecc-9f0e-56d7cfa17a5c",
+      "name": "Responsable de zona",
+      "lastName": "Sample User",
+      "username": "responsabledezona@nextdigital.es",
+      "phone": "666777999",
+      "isActive": true,
+      "role": "AREA_MANAGER"
+    },
+    {
+      "id": "b9d620a3-40e7-4439-8e3d-6eb9be2c3942",
+      "name": "Responsable de zona 2",
+      "lastName": "Sample User",
+      "username": "responsabledezona2@nextdigital.es",
+      "phone": "666777999",
+      "isActive": false,
+      "role": "AREA_MANAGER"
+    }
+  ]
+}
